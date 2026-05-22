@@ -12,10 +12,10 @@ Update this file in the same change that bumps a consumer's pinned SHA. During t
 
 | Fork | Upstream | Type | First forked | Consumers (pinned SHA) |
 |---|---|---|---|---|
-| [osl-actions-core](https://github.com/Ozark-Security-Labs/osl-actions-core) | [`actions/toolkit` `packages/core/`](https://github.com/actions/toolkit/tree/main/packages/core) | npm package | 2026-05-22 | `deterministic-deps` @ `23007f60ab3ee61aefe66202f4790b0c9e6552e4` |
-| [osl-glob](https://github.com/Ozark-Security-Labs/osl-glob) | [`isaacs/node-glob`](https://github.com/isaacs/node-glob) | npm package | 2026-05-22 | `deterministic-deps` @ `3d32991b7f0fcdff9c394e3025b40a6a5e253b44` |
-| [osl-js-yaml](https://github.com/Ozark-Security-Labs/osl-js-yaml) | [`nodeca/js-yaml`](https://github.com/nodeca/js-yaml) | npm package | 2026-05-22 | `deterministic-deps` @ `721957e87b8fd2716d29c30a859ac816b2768f0f` |
-| [osl-minimatch](https://github.com/Ozark-Security-Labs/osl-minimatch) | [`isaacs/minimatch`](https://github.com/isaacs/minimatch) | npm package | 2026-05-22 | `deterministic-deps` @ `4a0ff5b8e7ab0a3d12c5ef09660994125f759e3b` |
+| [osl-actions-core](https://github.com/Ozark-Security-Labs/osl-actions-core) | [`actions/toolkit` `packages/core/`](https://github.com/actions/toolkit/tree/main/packages/core) | npm package | 2026-05-22 | `deterministic-deps` @ `d0839bc290bd7f6c04710485f65600896fce9086` |
+| [osl-glob](https://github.com/Ozark-Security-Labs/osl-glob) | [`isaacs/node-glob`](https://github.com/isaacs/node-glob) | npm package | 2026-05-22 | `deterministic-deps` @ `b1bf03dd93c31cb2cd0211419113ed0cd5873cb3` |
+| [osl-js-yaml](https://github.com/Ozark-Security-Labs/osl-js-yaml) | [`nodeca/js-yaml`](https://github.com/nodeca/js-yaml) | npm package | 2026-05-22 | `deterministic-deps` @ `b04ff4fdceada2baf698fd7d374b0ca44fa469b5` |
+| [osl-minimatch](https://github.com/Ozark-Security-Labs/osl-minimatch) | [`isaacs/minimatch`](https://github.com/isaacs/minimatch) | npm package | 2026-05-22 | `deterministic-deps` @ `6e498460536f6296c405df7190365ae164fedace` |
 
 ## Open fork proposals
 
